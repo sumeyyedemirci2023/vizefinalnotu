@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\bin\Debug\vizefinalnotu.exe.config
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\bin\Debug\vizefinalnotu.exe
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\bin\Debug\vizefinalnotu.pdb
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.Form1.resources
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.Properties.Resources.resources
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.exe
+C:\Users\User\source\repos\vizefinalnotu\vizefinalnotu\obj\Debug\vizefinalnotu.pdb
